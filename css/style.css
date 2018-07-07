@@ -33,13 +33,14 @@ h4 {
 .indifferent {
   background-color: #dddd22;
   border-style: solid;
-  box-shadow:  red;
+  
   box-shadow: 5px 10px
 }
 
 .dubious {
   background-color: #dd4444;
-  border-style: solid
+  border-style: solid;
+  box-shadow: 5px 10px
 }
 
 .column {
